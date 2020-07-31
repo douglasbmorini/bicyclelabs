@@ -1,0 +1,381 @@
+{
+  "categorias": [
+    {
+      "titulo": "Mountain Bike (MTB)",
+      "link": "https://canalcafenatrilha.com.br/",
+      "cor": "#6BD1FF",
+      "videos": [
+        {
+          "titulo": "Os 5 erros mais comuns de quem está começando pedalar - Pedaleria",
+          "url": "https://youtu.be/KfH3q052RSQ"
+        },
+        {
+          "titulo": "Pedaleria - Como iniciar no mountain bike (MTB)? #bike #mountainbike #mtb",
+          "url": "https://youtu.be/qJ8iV6Ndnic"
+        },
+        {
+          "titulo": "4 dicas de MTB com o Edu Capivara (Parte 1) - Pedaleria. #educapivara #pedaleria #vzan",
+          "url": "https://youtu.be/qMhTn26cPl0"
+        },
+        {
+          "titulo": "4 Dicas de MTB (Parte 2) com Edu Capivara - Pedaleria #educapivara #pedaleria #vzan",
+          "url": "https://youtu.be/GFDYW2Q-M-8"
+        },
+        {
+          "titulo": "APRENDENDO TECNICA DE CURVA DE MOUNTAIN BIKE #Bike #ciclista #mountainbike",
+          "url": "https://youtu.be/l87rYKNQwsA"
+        },
+        {
+          "titulo": "DICAS DE COMO SALTAR DE MOUNTAIN BIKE #Bike #ciclista #mountainbike",
+          "url": "https://youtu.be/R1Iyhjcgj1g"
+        },
+        {
+          "titulo": "Pedal e Dicas de Subida técnica de Mountain Bike #Bike #ciclista #mountainbike",
+          "url": "https://youtu.be/q3p6XxOmEh4"
+        },
+        {
+          "titulo": "CUIDADOS AO ESCOLHER UMA MOUNTAIN BIKE - CUIDADO COM OS COMPARATIVOS! #Bike #ciclista #mountainbike",
+          "url": "https://youtu.be/otWj1DQMsZc"
+        }        
+      ]
+    },
+    {
+      "titulo": "Bicicletas de estrada - Speed",
+      "cor": "#00C86F",      
+      "videos": [
+        {
+          "titulo": "Pedaleria - Começar a pedalar bike de estrada. Sua primeira experiência com uma road bike. #pedaleria #cleberriccianderson #vzan",
+          "url": "https://youtu.be/2bJY0HjZtZQ?list=PLSwmP63XbUG3ms8dimCNhElf7HYswPx0Z"
+        },
+        {
+          "titulo": "Pedaleria - Conheça os componentes - Guidão de road bike (speed) e triathlon #pedaleria #roadbikes #speeds",
+          "url": "https://youtu.be/g67fbjunOxk?list=PLSwmP63XbUG3ms8dimCNhElf7HYswPx0Z"
+        },
+        {
+          "titulo": "Pedaleria - Relações de marchas nas road bikes #pedaleria #roadbikes #speed",
+          "url": "https://youtu.be/3p3YsNgQsTM?list=PLSwmP63XbUG3ms8dimCNhElf7HYswPx0Z"
+        },
+        {
+          "titulo": "Pedaleria - Como trocar marchas na bike de estrada #pedaleria #cleberanderson #vzan",
+          "url": "https://youtu.be/YdFRxuqrrUU?list=PLSwmP63XbUG3ms8dimCNhElf7HYswPx0Z"
+        }, 
+        {
+          "titulo": "Pedalando a road bike na estrada. Pedaleria. #pedaleria #cleberanderson #educapivara",
+          "url": "https://youtu.be/Fm1xhg2Zz3o?list=PLSwmP63XbUG3ms8dimCNhElf7HYswPx0Z"
+        },
+        {
+          "titulo": "Cuidados com a road bike para a sua segurança. Pedaleria. #pedaleria #cleberanderson #vzan",
+          "url": "https://youtu.be/UYXGE4d426s?list=PLSwmP63XbUG3ms8dimCNhElf7HYswPx0Z"
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas de compra e marcas nacionais",
+      "cor": "#9cd33b",      
+      "videos": [
+        {
+          "titulo": "Como comprar bike usada com 100% de certeza que não é roubada ou zuada. Pedaleria #pedaleria #starrett #starrettm1",
+          "url": "https://youtu.be/Y1OaZQUcYR0?list=PLSwmP63XbUG3HtU_kDV-92S3QQAxy7j0j4"
+        },
+        {
+          "titulo": "Como escolher uma bicicleta de supermercado? Pedaleria #educapivara #pedaleria #starrett",
+          "url": "https://youtu.be/Bhq2QExCx80"
+        },
+        {
+          "titulo": "Uma homenagem à galera do pedal! #Revoluçãosobrerodas #SenseBike #GuidãodeOuro2018",
+          "url": "https://youtu.be/HxWvgZTpsrg"
+        },
+        {
+          "titulo": "TV OGGI - Lançamentos, Eventos, Dicas com os principais ciclistas e muito mais",
+          "url": "https://youtu.be/Us5viKAIyUA"
+        },
+        {
+          "titulo": "GROOVE RHYTHM 70 11v | Quadro Astro com Carbono UD Mitsubishi",
+          "url": "https://youtu.be/EHNDuTxpLpo"
+        },
+        {
+          "titulo": "Liberte Sua Alma - Soul Cycles",
+          "url": "https://youtu.be/1dIF4KVy29s"
+        },
+        {
+          "titulo": "Linha Havok 2020",
+          "url": "https://youtu.be/kR5-rv2PsFo"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
+      "titulo": "Roupas e acessórios",
+      "cor": "#9cd33b",      
+      "videos": [
+        {
+          "titulo": "BRETELLE OU BERMUDA , O QUE ESCOLHER? | Canal de Bike #mtb #canaldebike",
+          "url": "https://youtu.be/n2m9GWYaJd8?list=PLnrQTB6pSkFAF6AYsdZBL74b5yPd_E88G"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
+      "titulo": "Bike fit",
+      "cor": "#9cd33b",      
+      "videos": [
+        {
+          "titulo": "O tamanho das costas e o tamanho do guidão de road bike. Com Cleber Anderson. Pedaleria. #cleberanderson #educapivara #pedaleria",
+          "url": "https://youtu.be/E09THLfLVHA?list=PLSwmP63XbUG1iCKO1LTCGuW7gPCntSuu8"
+        },
+        {
+          "titulo": "Pedaleria - Qual o tamanho da bicicleta? #bike #pedaleria #educapivara",
+          "url": "https://youtu.be/QTtalrEfYk0?list=PLSwmP63XbUG1iCKO1LTCGuW7gPCntSuu8s"
+        },
+        {
+          "titulo": "Qual o tamanho ideal do quadro da bike aro 29? Pedaleria #pedaleria #vzan #vzanbr",
+          "url": "https://youtu.be/u-qPvuq7kAA?list=PLSwmP63XbUG1iCKO1LTCGuW7gPCntSuu8"
+        },
+        {
+          "titulo": "Sapatilha de ciclismo e dor nos pés quando pedala. Conheça a solução. Pedaleria. #educapivara #pedaleria #novaspectro",
+          "url": "https://youtu.be/EAn6W3-t6uo?list=PLSwmP63XbUG1iCKO1LTCGuW7gPCntSuu8"
+        },
+        {
+          "titulo": "Duas principais medidas do quadro da bike para saber se ele é certo pra você. Pedaleria #pedaleria #cleberanderson #educapivara",
+          "url": "https://youtu.be/Dcfm20jzSz8?list=PLSwmP63XbUG1iCKO1LTCGuW7gPCntSuu8"
+        },
+        {
+          "titulo": "COMO É FEITO O BIKE FIT - SESSÃO COMPLETA NA SOUL VOLCANO #Bike #ciclista #mountainbike",
+          "url": "https://youtu.be/F_IvdtFnTZc"
+        },
+        {
+          "titulo": "COMO INSTALAR O TAQUINHO DA SAPATILHA e DORMÊNCIA NO PÉ #Bike #ciclista #mountainbike",
+          "url": "https://youtu.be/mUsYRUJv4aw"
+        },
+        {
+          "titulo": "COMO ESCOLHER O SELIM DE BICICLETA - DICAS DE UM BIKE FITTER #Bike #ciclista #mountainbike",
+          "url": "https://youtu.be/m9P5wfJoqQo"
+        },
+        {
+          "titulo": "Qual o Tamanho Ideal da Bike para mim e Ajustes do Selim da Bicicleta #Bike #ciclista #mountainbike",
+          "url": "https://youtu.be/a-IIA2x-m4A"
+        }
+      ]
+    },
+    {
+      "titulo": "Exercícios, saúde e alimentação",
+      "cor": "#9cd33b",      
+      "videos": [
+        {
+          "titulo": "Dicas de exercício funcional para ciclistas",
+          "url": "https://youtu.be/vBDEkV3eASE?list=PLnrQTB6pSkFAsvvk0YPyO4NwrxXgSB5lu"
+        },
+        {
+          "titulo": "O que é Treino Regenerativo na Bike? - Revista Ride Bike",
+          "url": "https://youtu.be/eu7UP-V7P8o?list=PLnrQTB6pSkFAsvvk0YPyO4NwrxXgSB5lu"
+        },
+        {
+          "titulo": "Dores que ciclistas sentem e quais as causas - Revista Ride Bike",
+          "url": "https://youtu.be/KszGxhFoplg?list=PLnrQTB6pSkFAsvvk0YPyO4NwrxXgSB5lu"
+        },
+        {
+          "titulo": "Glutamina ajuda no ciclismo? E avaliação da nutricionista - Revista Ride Bike",
+          "url": "https://youtu.be/qf2Qc4ljnUQ?list=PLnrQTB6pSkFAsvvk0YPyO4NwrxXgSB5lu"
+        },
+        {
+          "titulo": "Treino de fortalecimento e força de um ciclista - Revista Ride Bike",
+          "url": "https://youtu.be/aT1xlrUyd5g?list=PLnrQTB6pSkFAsvvk0YPyO4NwrxXgSB5lu"
+        },
+        {
+          "titulo": "Qual seu nível no MTB?- Segredos do MTB",
+          "url": "https://youtu.be/OgCx6QQ55s8?list=PL1c_1KZ_pDvh5K7i_qxJQ2IwLvEOJVPX"
+        },
+        {
+          "titulo": "“Bikefit” Resolve? - Segredos do MTB",
+          "url": "https://youtu.be/tK79QGHi7q4?list=PL1c_1KZ_pDvg8RXfVBGBZrn-ZSjRvAXbw"
+        },
+        {
+          "titulo": "Tem MEDO de pedalar clipado?- Segredos do MTB",
+          "url": "https://youtu.be/pRPuNvO0nv8?list=PL1c_1KZ_pDvgv19osYpiLIUjFc0lWs9ns"
+        },
+        {
+          "titulo": "Quantos quilômetros/horas pedalar por dia? - Segredos do MTB",
+          "url": "https://youtu.be/i4oGVf6-uFY?list=PL1c_1KZ_pDvgv19osYpiLIUjFc0lWs9ns"
+        },
+        {
+          "titulo": "Cãibras: 4 principais causas e formas de evitar- Segredos do MTB",
+          "url": "https://youtu.be/NfsPKi9JQq8?list=PL1c_1KZ_pDvgv19osYpiLIUjFc0lWs9ns"
+        },
+        {
+          "titulo": "Segredos do MTB | O que levar nas trilhas?",
+          "url": "https://youtu.be/6Q367FUZsMo?list=PL1c_1KZ_pDvgv19osYpiLIUjFc0lWs9ns"
+        },
+        {
+          "titulo": "Sobre Dietas, Alimentos e Como Comer",
+          "url": "https://youtu.be/sXfOjPNAQ2U?list=PL1c_1KZ_pDvgv19osYpiLIUjFc0lWs9ns"
+        },
+        {
+          "titulo": "Dor na Bunda - Comprei a Bike e agora? #ciclistainiciante",
+          "url": "https://youtu.be/UFsK3M9RaYc?list=PL1c_1KZ_pDvgv19osYpiLIUjFc0lWs9ns"
+        },
+        {
+          "titulo": "Como emagrecer pedalando uma bike- Segredos do MTB",
+          "url": "https://youtu.be/YDReFffmoME?list=PL1c_1KZ_pDvgUwQ11M5Yzy_Ymeu1sz21F"
+        },
+        {
+          "titulo": "Pedaleria - Preparação física para ciclistas #ciclista #pedaleria #studiofityourlife",
+          "url": "https://youtu.be/5NQd_kJ-NHg?list=PLSwmP63XbUG3IDz1jqEUJwh9etreYsbDC"
+        },
+        {
+          "titulo": "Pedaleria - Posso tomar café da manhã na padaria antes de pedalar? Com Lara Natacci #laranatacci #dietnet #pedaleria",
+          "url": "https://youtu.be/G9bNeHfpUDY?list=PLSwmP63XbUG3IDz1jqEUJwh9etreYsbDC"
+        },
+        {
+          "titulo": "Pedaleria - Academia ao ar livre para ciclistas #pedaleria #pedal #besttrainersclub",
+          "url": "https://youtu.be/NbI5vmn-Qc4?list=PLSwmP63XbUG3IDz1jqEUJwh9etreYsbDC"
+        },
+        {
+          "titulo": "Pedaleria - Condromalacia patelar. Uma lesão nos joelhos dos ciclistas. #ciclista #pedaleria #pedaladas",
+          "url": "https://youtu.be/A0GivVxGULs?list=PLSwmP63XbUG3IDz1jqEUJwh9etreYsbDC"
+        },
+        {
+          "titulo": "Pedaleria - Suplementos para ciclistas. Como usar? #pedaleria #isaiasrodrigues #emotionacademia",
+          "url": "https://youtu.be/q50c7cVlzv8?list=PLSwmP63XbUG3IDz1jqEUJwh9etreYsbDC"
+        },
+        {
+          "titulo": "Pedaleria - Alimentação antes, durante e depois da pedalada. Com Lara Natacci. #laranatacci #dietnet #pedaleria",
+          "url": "https://youtu.be/m6pCSas7TL8?list=PLSwmP63XbUG3IDz1jqEUJwh9etreYsbDC"
+        },        
+        {
+          "titulo": "Como escolher a modalidade de ciclismo ideal pra você? Pedaleria #pedaleria #cleberanderson #educapivara",
+          "url": "https://youtu.be/W-PxiKnnJrc?list=PLSwmP63XbUG3IDz1jqEUJwh9etreYsbDC"
+        }
+      ]
+    },
+    {
+      "titulo": "Dicas e Manutenção",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Pedaleria - Lavando a bike em casa",
+          "url": "https://youtu.be/jU3NZq0d1XU?list=PLSwmP63XbUG0JI9WJJbQDPnu4n9EGHPMy"
+        },
+        {
+          "titulo": "Pedaleria - Como regular o câmbio da bike",
+          "url": "https://youtu.be/VRSygpXPnFA?list=PLSwmP63XbUG0JI9WJJbQDPnu4n9EGHPMy"
+        },
+        {
+          "titulo": "Pedaleria - Por que lavar a corrente?",
+          "url": "https://youtu.be/XQZ6m-OYGr0?list=PLSwmP63XbUG0JI9WJJbQDPnu4n9EGHPMy"
+        },
+        {
+          "titulo": "Pedaleria - Disco de freio empenado? Consertar ou trocar? #pedaleria #educapivara #vzan",
+          "url": "https://youtu.be/h3PmGS62oS8?list=PLSwmP63XbUG0JI9WJJbQDPnu4n9EGHPMy"
+        },
+        {
+          "titulo": "Pedaleria - Como tirar o pneu do aro da bicicleta? (em um minuto)",
+          "url": "https://youtu.be/xjBZtZh5wQ8?list=PLSwmP63XbUG0JI9WJJbQDPnu4n9EGHPMy"
+        },
+        {
+          "titulo": "Como limpar bike suja de areia ou poeira? Pedaleria #pedaleria #educapivara #starrett",
+          "url": "https://youtu.be/4syL5UJAzoc?list=PLSwmP63XbUG0JI9WJJbQDPnu4n9EGHPMy"
+        },
+        {
+          "titulo": "Abrindo corrente Power Link e Missing Link sem ferramenta. Pedaleria #pedaleria #educapivara #vzan",
+          "url": "https://youtu.be/JnDDkByrEiM?list=PLSwmP63XbUG0JI9WJJbQDPnu4n9EGHPMy"
+        },
+        {
+          "titulo": "TUBELESS | Como Instalar, Kit Tubeless e Selante Tubeless #Bike #ciclista #mountainbike",
+          "url": "https://youtu.be/AQlTmDufLos?list=PLnI6wjpSjU5mMLz1Q0OYXAtVnq4ytmouK"
+        },
+        {
+          "titulo": "Como Trocar e Regular as Pastilhas de Freio da Bicicleta #Bike #ciclista #mountainbike",
+          "url": "https://youtu.be/EAUNaiNpVIo?list=PLnI6wjpSjU5mMLz1Q0OYXAtVnq4ytmouK"
+        },
+        {
+          "titulo": "BIKE FULL SUSPENSION - CUIDADOS! #Bike #ciclista #mountainbike",
+          "url": "https://youtu.be/yJ95PEQ2yvc?list=PLnI6wjpSjU5mMLz1Q0OYXAtVnq4ytmouK"
+        },
+        {
+          "titulo": "COMO LIMPAR A CORRENTE DA BIKE DE FORMA EFICAZ E RAPIDA EM CASA #Bike #ciclista #mountainbike",
+          "url": "https://youtu.be/9JEk5XUULv8?list=PLnI6wjpSjU5mMLz1Q0OYXAtVnq4ytmouK"
+        },
+        {
+          "titulo": "Pedal CLIP ou FLAT - Qual é melhor para o Mountain Bike e Iniciante? #Bike #ciclista #mountainbike",
+          "url": "https://youtu.be/xNwDTWPf9-M?list=PLnI6wjpSjU5mMLz1Q0OYXAtVnq4ytmouK"
+        },
+        {
+          "titulo": "Como usar bandana para pedalar e posição correta do capacete",
+          "url": "https://youtu.be/CdTAbi-m3LY?list=PLnrQTB6pSkFAF6AYsdZBL74b5yPd_E88G"
+        },
+        {
+          "titulo": "Como lavar o seu capacete de bike?",
+          "url": "https://youtu.be/Oe38PYGTOk4?list=PLnrQTB6pSkFAF6AYsdZBL74b5yPd_E88G"
+        },
+        {
+          "titulo": "Dicas para pedalar no frio - Revista Ride Bike",
+          "url": "https://youtu.be/fFBTmdhIFCs?list=PLnrQTB6pSkFAF6AYsdZBL74b5yPd_E88G"
+        },
+        {
+          "titulo": "Fazer um protetor de quadro de bike com câmara de ar - Revista Ride Bike",
+          "url": "https://youtu.be/8B5DOzE_dQY?list=PLnrQTB6pSkFAF6AYsdZBL74b5yPd_E88G"
+        },
+        {
+          "titulo": "Vendi minha bike, e agora? Como embalar? - Revista Ride Bike",
+          "url": "https://youtu.be/cVZU4_4f_D4?list=PLnrQTB6pSkFAF6AYsdZBL74b5yPd_E88G"
+        },
+        {
+          "titulo": "DICAS DE PEDAL PARA INICIANTES NO MTB | Canal de Bike #mtb #canaldebike",
+          "url": "https://youtu.be/7YIUjmu6SUo?list=PLnrQTB6pSkFAF6AYsdZBL74b5yPd_E88G"
+        },
+        {
+          "titulo": "TUBELESS | Como Instalar, Kit Tubeless e Selante Tubeless #Bike #ciclista #mountainbike",
+          "url": "https://youtu.be/AQlTmDufLos?list=PLnI6wjpSjU5mMLz1Q0OYXAtVnq4ytmouK"
+        },
+        {
+          "titulo": "Pedaleria - Vai trocar a corrente da bicicleta? Como emendar uma corrente? #pedaleria #educapivara",
+          "url": "https://youtu.be/D6ULLJq9Cu4?list=PLSwmP63XbUG0JI9WJJbQDPnu4n9EGHPMy"
+        }
+      ]
+    },
+    {
+      "titulo": "Faça você memso (DIY)",
+      "cor": "red",
+      "videos": [
+        {
+          "titulo": "Faça você mesmo um suporte de bike em PVC. Pedaleria #pedaleria #starrett #m1starrett",
+          "url": "https://youtu.be/w3o11PVT6j8?list=PLSwmP63XbUG2DfbWbrcKQLdOdbvFK8Rb33"
+        },
+        {
+          "titulo": "A bike veio pré montada na caixa? Pedaleria. #educapivara #pedaleria #starrett",
+          "url": "https://youtu.be/q_Pe38Cwkjg?list=PLSwmP63XbUG2DfbWbrcKQLdOdbvFK8Rb3"
+        },
+        {
+          "titulo": "Sistema antiqueda da roda da bike. Pedaleria #educapivara #pedaleria #starrett",
+          "url": "https://youtu.be/uWv8G6P4SgA?list=PLSwmP63XbUG2DfbWbrcKQLdOdbvFK8Rb3"
+        },
+        {
+          "titulo": "Manutenção na bike sem a roda traseira. Aprenda a fazer um chain keeper caseiro. Pedaleria #educapivara #pedaleria #vzan",
+          "url": "https://youtu.be/uWWl1Rk5VN8?list=PLSwmP63XbUG2DfbWbrcKQLdOdbvFK8Rb3"
+        },
+        {
+          "titulo": "Como fazer um kit de sangria caseiro para freio hidraulico. Pedaleria #educapivara #pedaleria #vzan",
+          "url": "https://youtu.be/vY76Qjrw7cA?list=PLSwmP63XbUG2DfbWbrcKQLdOdbvFK8Rb3"
+        },
+        {
+          "titulo": "Fita antifuro caseira, eficiente e barata. Pedaleria #pedaleria #educapivara #mcgyver",
+          "url": "https://youtu.be/P7T5pQTicsY?list=PLSwmP63XbUG2DfbWbrcKQLdOdbvFK8Rb3"
+        }
+      ]
+    }    
+  ]
+}
